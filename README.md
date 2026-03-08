@@ -13,7 +13,6 @@ Excel / CSV dataset – Data storage and preprocessing
 Dataset: Subscription Customer Dataset from Kaggle.
 The dataset contains subscription information for a telecom/service-based business.
 Dataset size: 7,000+ customer records
-- <a href="https://github.com/swiftfaisal/Subscription-Business-Health-Dashboard/blob/main/Telco_churn_Cleaned.xlsx"> Dataset </a>
 Key columns include:
 Customer ID
 Contract Type
@@ -23,6 +22,7 @@ Total Charges
 Churn Status
 Customer Demographics
 This dataset is commonly used for customer churn analysis and retention modeling.
+- <a href="https://github.com/swiftfaisal/Subscription-Business-Health-Dashboard/blob/main/Telco_churn_Cleaned.xlsx"> Dataset </a>
 ## Features / Highlights
 ## 1. Business Problem
 Subscription-based businesses rely heavily on customer retention for stable revenue growth. However, identifying customers likely to churn is difficult without structured analysis.
