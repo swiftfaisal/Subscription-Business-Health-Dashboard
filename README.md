@@ -13,6 +13,7 @@ Excel / CSV dataset – Data storage and preprocessing
 Dataset: Subscription Customer Dataset from Kaggle.
 The dataset contains subscription information for a telecom/service-based business.
 Dataset size: 7,000+ customer records
+- <a href="https://github.com/swiftfaisal/Subscription-Business-Health-Dashboard/blob/main/Telco_churn_Cleaned.xlsx"> Dataset </a>
 Key columns include:
 Customer ID
 Contract Type
