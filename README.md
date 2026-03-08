@@ -63,6 +63,7 @@ It highlights critical lifecycle stages where churn risk is highest.
 A cohort heatmap visual tracks customer retention across time periods, helping identify patterns in long-term customer retention.
 This is useful for understanding customer lifecycle performance.
 ## Business Questions Solved Using SQL
+- <a href="https://github.com/swiftfaisal/Subscription-Business-Health-Dashboard/blob/main/Subscription_Health.sql"> SQL Queries </a>
 The project uses SQL queries to answer important business questions:
 ## 1. What is the overall customer churn rate?
 Purpose:
